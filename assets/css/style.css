@@ -59,6 +59,28 @@ body {
 .profil-image {
   height: 520px;
 }
+
+/* menambahkan styling teks identitas & kontak pada profil */
+.nama {
+  font-size: 45pt;
+  font-weight: bold;
+}
+
+.keterangan {
+  font-size: 23pt;
+}
+
+.profil-text ul {
+  padding: 0;
+  list-style: none;
+  margin-top: 45px;
+  font-size: 20pt;
+  font-weight: bold;
+}
+
+.profil-text ul li {
+  margin-top: 10px;
+}
 /*  */
 
 
